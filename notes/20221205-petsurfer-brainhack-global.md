@@ -23,7 +23,7 @@ There are several ways to get a FreeSurfer env
 - Use neurodesktop icon to run FreeView!
 - Thanks to [stebo85](https://github.com/stebo85) :heart:
 
-**2) Downalod and Install**
+**2) Download and Install**
 - https://surfer.nmr.mgh.harvard.edu/fswiki/rel7downloads
 - Make a directory for subject data
 - `SUBJECTS export_DIR=/home/my/freesurfer-subjects-dir`
