@@ -26,7 +26,7 @@ There are several ways to get a FreeSurfer env
 **2) Downalod and Install**
 - https://surfer.nmr.mgh.harvard.edu/fswiki/rel7downloads
 - Make a directory for subject data
-- `SUBJECTS export_DIR=/home/my/freesurfer-subjects-dir`
+- `SUBJECTS export SUBJECTS_DIR=/home/my/freesurfer-subjects-dir`
 - `export FREESURFER_HOME=/home/my/freesurfer-dir`
 - `source $FREESURFER_HOME/SetUpFreeSurfer.sh`
 
